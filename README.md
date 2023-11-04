@@ -1,2 +1,2 @@
 # cdn
-Untendo CDN
+Untendo CDN on cdn.untendo.is-a.dev
